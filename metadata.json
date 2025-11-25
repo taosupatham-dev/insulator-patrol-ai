@@ -1,0 +1,8 @@
+{
+  "name": "Insulator Patrol AI",
+  "description": "AI-powered assistant for patrol officers to analyze electrical insulator conditions using computer vision.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
